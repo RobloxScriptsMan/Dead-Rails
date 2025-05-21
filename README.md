@@ -2,7 +2,7 @@
 
 Looking to conquer *Dead Rails* with ease? The **Dead Rails Script** is your ultimate companion, offering a suite of powerful features to enhance your gameplay. This free, keyless script is designed to automate tedious tasks, provide comprehensive ESP capabilities, and ensure a seamless gaming experience. Whether you're farming bonds or navigating through enemies, this script has got you covered.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/dead-rails/blob/main/dead%20rails.png)
 
 ---
 
