@@ -122,7 +122,7 @@ Follow these simple steps to integrate the **Dead Rails Script** into your gamep
 * Dead Rails Script Download
 * Dead Rails Script Features
 * Dead Rails Script Executor Compatibility
-* Dead Rails Script Guide([ScriptBlox][2])
+* Dead Rails Script Guide
 
 ---
 
