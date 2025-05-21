@@ -28,7 +28,7 @@ Automate repetitive tasks and focus on strategic gameplay.
 * Auto Grab Money
 * Auto Claim Bonds
 * Auto Equip Armour
-* Instant Revive/Use([ScriptBlox][1], [ScriptBlox][2])
+* Instant Revive/Use
 
 ### 🧠 ESP Capabilities
 
@@ -85,8 +85,7 @@ Experience unparalleled advantages that set this script apart.
 * ✅ User-Friendly Interface
 * ✅ Regular Updates and Support
 * ✅ Compatible with Major Executors
-* ✅ Secure and Clean Code([YouTube][3])
-
+* ✅ Secure and Clean Code
 > 🎮 "For players seeking efficiency and control in Dead Rails, this script is the ultimate tool."
 
 ---
