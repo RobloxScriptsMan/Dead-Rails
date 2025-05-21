@@ -39,7 +39,7 @@ Gain a tactical advantage with comprehensive ESP features.
 * Mark Builds (Nametags)
 * ESP Jade Tablets
 * ESP for Weapons, Items, Junk, Valuables, Bodies, Enemies (Alive), Ores
-* Fully customizable ESP settings([ScriptBlox][2])
+* Fully customizable ESP settings
 
 ### 🔫 Weapon Automation
 
@@ -47,7 +47,7 @@ Streamline your combat with automated weapon features.
 
 * Auto Pick Up
 * Auto Claim Ammo
-* Auto/Insta Reload([ScriptBlox][2])
+* Auto/Insta Reload
 
 ### 🛡️ Safety and Accessibility
 
@@ -56,7 +56,7 @@ Enjoy a secure and user-friendly experience.
 * Keyless and Ad-Free
 * Clean Codebase
 * Anti-Ban Measures
-* Instant Access([ScriptBlox][2])
+* Instant Access
 
 ---
 
